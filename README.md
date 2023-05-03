@@ -14,4 +14,4 @@ In the project directory, you can run:
 * From soft and pleasant animations to complex gradients
 * Perfectly placed media queries for satisfactory responsiveness covering almost devices.
 
-image.png
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/48478940/235999805-4b2a4e46-ccc4-4204-afc8-292f64b6b583.png">
